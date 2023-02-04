@@ -1,4 +1,5 @@
 streamlit
+gunicorn
 pandas
 matplotlib
 seaborn
