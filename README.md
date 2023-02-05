@@ -28,7 +28,7 @@ streamlit run app.py
 <img src="./Screenshot/img2.png" alt="screenshot"/>
 
 
-[click-to-check-the-project](https://boston-house-price-prediction-vlx7.onrender.com)
+[click-to-check-the-project](https://whatsapp-chat-analysis-g6z6.onrender.com)
 
 
 --------------------------------------- END -----------------------------------------------
